@@ -1,16 +1,5 @@
-# flutter_hello_world
+# flutterApp_2
 
-A new Flutter project.
+App basica de flutter (botones ; posicion de widgets, ternarios , constructores en el caso de los botones y estados)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Previsualizacion](./image.png)
